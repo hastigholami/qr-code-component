@@ -4,15 +4,15 @@ body {
 }
 .preview {
     background-color: hsl(0, 0%, 100%);
-    width: 350px; 
-    border-radius: 20px;
+    width: 330px; 
+    border-radius: 18px;
 }
 .qr-code-pic{
-    padding: 25px;
+    padding: 15px;
 }
 img {
     width: 300px;
-    border-radius: 15px;
+    border-radius: 12px;
 }
 .qr-code-info{
     font-size: 22px;
