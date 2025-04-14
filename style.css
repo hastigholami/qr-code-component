@@ -4,13 +4,22 @@ body {
 }
 .preview {
     background-color: hsl(0, 0%, 100%);
+    width: 350px; 
+}
+.qr-code-pic{
+    padding: 25px;
+}
+img {
+    width: 300px;
 }
 .qr-code-info{
     font-size: 22px;
     color: hsl(218, 44%, 22%);
     font-weight: bold;
+    padding: 5px 25px;
 }
 .info-container{
     font-size: 15px;
     color: hsl(216, 15%, 48%);
+    padding: 5px 25px 45px 25px;
 }
