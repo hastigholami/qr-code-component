@@ -1,12 +1,12 @@
+# Frontend Mentor - QR Code Component
+
+![Screenshot](./pre.jpg)
+
 # QR Code Component
 
 A simple responsive QR Code card component built using **HTML** and **CSS**. This project is part of a challenge from [Frontend Mentor](https://www.frontendmentor.io).
 
 ## Overview
-
-### Screenshot
-
-- (./images/Screenshot%202025-04-22%20032526.png)
 
 ### Links
 
