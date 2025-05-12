@@ -40,3 +40,6 @@ Next, I want to:
 ## Acknowledgments
 
 Thanks to [Frontend Mentor](https://www.frontendmentor.io) for the amazing challenges!
+
+## Note
+This project was originally completed in April 2025. This README was updated later for better clarity and documentation.
